@@ -38,7 +38,7 @@ Researchers can use this dataset for:
 ## How to Access the Dataset
 The dataset is attached in this repository. You can download it directly using the **"Download"** button or clone the repository:
 ```bash
-git clone https://github.com/username/Compost-Dataset.git
+git clone https://github.com/hafsa-kibria/Compost-Dataset/blob/main/Compost%20Data.csv 
 ```
 
 ## Citation
