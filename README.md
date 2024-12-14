@@ -51,6 +51,7 @@ This dataset is shared under the [Creative Commons Attribution 4.0 International
 
 ## Contact
 For any questions or feedback, please contact:
+- **Amith Khandakar**: amitk@qu.edu.qa
 - **Hafsa Binte Kibria**: hafsabintekibria@gmail.com
 
 ---
