@@ -31,6 +31,11 @@ Researchers can use this dataset for:
 - Monitoring gas emissions during composting.
 - Implementing interpretable machine learning frameworks for environmental data.
 
+### Contributor of the Data Collected  
+- **Amith Khandakar¹**  
+  *Department of Electrical Engineering, College of Engineering, Qatar University, Doha-Qatar*  
+  Email: amitk@qu.edu.qa, as2109935@student.qu.edu.qa  
+
 ### Suggested Tools:
 - Python: For data preprocessing, analysis, and model development.
 - Machine Learning Libraries: Scikit-learn, XGBoost, CatBoost, LIME, SHAP.
